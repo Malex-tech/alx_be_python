@@ -7,4 +7,8 @@ current_age = int(input("How old are you? "))
 future_age = current_age + 27  # Since the current year is 2023
 
 # Print the result
+<<<<<<< HEAD
 print(f"In 2050, you will be {future_age} years old.")
+=======
+print(f"In 2050, you will be {future_age} years old.")
+>>>>>>> a56b846 (WIP: Save progress before pull)
