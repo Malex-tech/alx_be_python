@@ -1,8 +1,8 @@
 # simple_interest.py
 
 # Define principal, rate and time
-principal = 1000
-rate = 5  # 5%
+principal = 1000 # $1000
+rate = 0.05  # 5%
 time = 3  # 3 years
 
 # Calculate simple interest
