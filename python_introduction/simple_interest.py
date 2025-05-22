@@ -1,4 +1,4 @@
- # simple_interest.py
+ 
 
 # Define principal, rate and time
 principal = 1000    # Principal amount in dollars
